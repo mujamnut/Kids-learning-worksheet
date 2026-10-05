@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kids Learning Worksheets Bundle",
+  "description": "Halaman jualan premium untuk bundle 500,000+ lembaran kerja pembelajaran kanak-kanak berusia 3-8 tahun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
